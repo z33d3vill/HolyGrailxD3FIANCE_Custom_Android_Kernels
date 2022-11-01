@@ -22,3 +22,11 @@ So, we don't don't generic here.. here, we test and improve all while we impress
 Oh, and C++ has no power here, we believe in PERFORMANCE not "Performance".. so (almost) pure C Kernels, you'll C for yourself. 
 
 Until then, I hope you stay well
+
+Kernel Sources Used:
+--------------------
+Source:
+--> https://Android.googlesource.com/kernel/common
+
+Branch:
+--> android-mainline
