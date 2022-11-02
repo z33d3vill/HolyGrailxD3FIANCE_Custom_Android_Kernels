@@ -30,3 +30,8 @@ Source:
 
 Branch:
 --> android-mainline
+
+When Do We See first Releases:
+------------------------------
+First Release to public:
+--> 01/01/2023
