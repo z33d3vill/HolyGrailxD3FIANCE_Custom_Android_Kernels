@@ -26,7 +26,7 @@ Until then, I hope you stay well
 Kernel Sources Used:
 --------------------
 Source:
---> https://Android.googlesource.com/kernel/common
+--> https://android.googlesource.com/kernel/common
 
 Branch:
 --> android-mainline
